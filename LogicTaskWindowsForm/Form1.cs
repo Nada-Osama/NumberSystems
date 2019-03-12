@@ -83,6 +83,7 @@ namespace LogicTaskWindowsForm
             }
         }
 
+
         private void HexConvertionBtn_Click(object sender, EventArgs e)
         {
             Hexdecimal hexObj = new Hexdecimal();
