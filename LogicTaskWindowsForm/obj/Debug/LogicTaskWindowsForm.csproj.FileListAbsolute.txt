@@ -1,0 +1,9 @@
+c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicTaskWindowsForm\bin\Debug\LogicTaskWindowsForm.exe.config
+c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicTaskWindowsForm\bin\Debug\LogicTaskWindowsForm.exe
+c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicTaskWindowsForm\bin\Debug\LogicTaskWindowsForm.pdb
+c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.csprojResolveAssemblyReference.cache
+c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.Form1.resources
+c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.Properties.Resources.resources
+c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.csproj.GenerateResource.Cache
+c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.exe
+c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.pdb
