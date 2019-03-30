@@ -7,13 +7,3 @@ c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicT
 c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.csproj.GenerateResource.Cache
 c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.exe
 c:\users\osama\documents\visual studio 2017\Projects\LogicTaskWindowsForm\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.pdb
-F:\GitHubProjects\Nada Osama\NumberSystems\LogicTaskWindowsForm\bin\Debug\LogicTaskWindowsForm.exe.config
-F:\GitHubProjects\Nada Osama\NumberSystems\LogicTaskWindowsForm\bin\Debug\LogicTaskWindowsForm.exe
-F:\GitHubProjects\Nada Osama\NumberSystems\LogicTaskWindowsForm\bin\Debug\LogicTaskWindowsForm.pdb
-F:\GitHubProjects\Nada Osama\NumberSystems\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.csprojAssemblyReference.cache
-F:\GitHubProjects\Nada Osama\NumberSystems\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.Form1.resources
-F:\GitHubProjects\Nada Osama\NumberSystems\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.Properties.Resources.resources
-F:\GitHubProjects\Nada Osama\NumberSystems\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.csproj.GenerateResource.cache
-F:\GitHubProjects\Nada Osama\NumberSystems\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.csproj.CoreCompileInputs.cache
-F:\GitHubProjects\Nada Osama\NumberSystems\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.exe
-F:\GitHubProjects\Nada Osama\NumberSystems\LogicTaskWindowsForm\obj\Debug\LogicTaskWindowsForm.pdb

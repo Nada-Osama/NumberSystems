@@ -46,11 +46,11 @@
             // decBtn
             // 
             this.decBtn.BackColor = System.Drawing.Color.Wheat;
-            this.decBtn.Font = new System.Drawing.Font("Modern No. 20", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.decBtn.Font = new System.Drawing.Font("Modern No. 20", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.decBtn.ForeColor = System.Drawing.Color.Crimson;
-            this.decBtn.Location = new System.Drawing.Point(176, 291);
+            this.decBtn.Location = new System.Drawing.Point(588, 49);
             this.decBtn.Name = "decBtn";
-            this.decBtn.Size = new System.Drawing.Size(86, 65);
+            this.decBtn.Size = new System.Drawing.Size(94, 32);
             this.decBtn.TabIndex = 0;
             this.decBtn.Text = "Dec Convert";
             this.decBtn.UseVisualStyleBackColor = false;
@@ -156,11 +156,11 @@
             // binBtn
             // 
             this.binBtn.BackColor = System.Drawing.Color.Wheat;
-            this.binBtn.Font = new System.Drawing.Font("Modern No. 20", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.binBtn.Font = new System.Drawing.Font("Modern No. 20", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.binBtn.ForeColor = System.Drawing.Color.Crimson;
-            this.binBtn.Location = new System.Drawing.Point(309, 290);
+            this.binBtn.Location = new System.Drawing.Point(588, 104);
             this.binBtn.Name = "binBtn";
-            this.binBtn.Size = new System.Drawing.Size(93, 65);
+            this.binBtn.Size = new System.Drawing.Size(93, 32);
             this.binBtn.TabIndex = 11;
             this.binBtn.Text = "Bin Convert";
             this.binBtn.UseVisualStyleBackColor = false;
@@ -169,11 +169,11 @@
             // octBtn
             // 
             this.octBtn.BackColor = System.Drawing.Color.Wheat;
-            this.octBtn.Font = new System.Drawing.Font("Modern No. 20", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.octBtn.Font = new System.Drawing.Font("Modern No. 20", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.octBtn.ForeColor = System.Drawing.Color.Crimson;
-            this.octBtn.Location = new System.Drawing.Point(432, 291);
+            this.octBtn.Location = new System.Drawing.Point(588, 160);
             this.octBtn.Name = "octBtn";
-            this.octBtn.Size = new System.Drawing.Size(94, 67);
+            this.octBtn.Size = new System.Drawing.Size(94, 32);
             this.octBtn.TabIndex = 12;
             this.octBtn.Text = "Oct Convert";
             this.octBtn.UseVisualStyleBackColor = false;
@@ -182,11 +182,11 @@
             // hexBtn
             // 
             this.hexBtn.BackColor = System.Drawing.Color.Wheat;
-            this.hexBtn.Font = new System.Drawing.Font("Modern No. 20", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.hexBtn.Font = new System.Drawing.Font("Modern No. 20", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.hexBtn.ForeColor = System.Drawing.Color.Crimson;
-            this.hexBtn.Location = new System.Drawing.Point(567, 290);
+            this.hexBtn.Location = new System.Drawing.Point(585, 216);
             this.hexBtn.Name = "hexBtn";
-            this.hexBtn.Size = new System.Drawing.Size(97, 67);
+            this.hexBtn.Size = new System.Drawing.Size(97, 32);
             this.hexBtn.TabIndex = 13;
             this.hexBtn.Text = "Hex Convert";
             this.hexBtn.UseVisualStyleBackColor = false;

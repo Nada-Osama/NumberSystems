@@ -51,7 +51,7 @@ namespace LogicTaskWindowsForm
             {
                 BinTextBox.Text = DecObj.DecToBin(int.Parse(DecTextBox.Text));
                 OctTextBox.Text = DecObj.DecToOct(int.Parse(DecTextBox.Text));
-                HexTextBox.Text = DecObj.DecToHex(int.Parse(DecTextBox.Text));
+                HexTextBox.Text = DecObj.DecToHex(int.Parse(DecTextBox.Text)).ToUpper();
             }
         }
 
@@ -65,7 +65,7 @@ namespace LogicTaskWindowsForm
             {
                 DecTextBox.Text = BinObj.BinToDec(BinTextBox.Text).ToString();
                 OctTextBox.Text = BinObj.BinToOct(BinTextBox.Text).ToString();
-                HexTextBox.Text = BinObj.BinToHex(BinTextBox.Text);
+                HexTextBox.Text = BinObj.BinToHex(BinTextBox.Text).ToUpper();
             }
         }
 
@@ -79,7 +79,7 @@ namespace LogicTaskWindowsForm
             {
                 DecTextBox.Text = octObj.OctToDec(OctTextBox.Text);
                 BinTextBox.Text = octObj.OctToBin(OctTextBox.Text);
-                HexTextBox.Text = octObj.OctToHex(OctTextBox.Text);
+                HexTextBox.Text = octObj.OctToHex(OctTextBox.Text).ToUpper();
             }
         }
 
@@ -92,9 +92,9 @@ namespace LogicTaskWindowsForm
                 MessageBox.Show("Please, Enter a number to convert!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             else
             {
-                DecTextBox.Text = hexObj.HexToDec(BinTextBox.Text);
-                BinTextBox.Text = hexObj.HexToBin(BinTextBox.Text);
-                OctTextBox.Text = hexObj.HexToOct(BinTextBox.Text);
+                DecTextBox.Text = hexObj.HexToDec(HexTextBox.Text);
+                BinTextBox.Text = hexObj.HexToBin(HexTextBox.Text);
+                OctTextBox.Text = hexObj.HexToOct(HexTextBox.Text);
             }
         }
 
